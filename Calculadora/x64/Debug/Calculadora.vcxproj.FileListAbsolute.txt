@@ -1,0 +1,15 @@
+C:\C++\Calculadora\Calculadora\x64\Debug\Calculadora.vcxproj.AssemblyReference.cache
+C:\C++\Calculadora\Calculadora\x64\Debug\Calculadora.vcxproj.SuggestedBindingRedirects.cache
+C:\C++\Calculadora\Calculadora\x64\Debug\Calculadora.calculadora.resources
+C:\C++\Calculadora\Calculadora\x64\Debug\Calculadora.vcxproj.GenerateResource.cache
+C:\Users\Miguel 07\Desktop\calculadora\Calculadora\x64\Debug\Calculadora.vcxproj.AssemblyReference.cache
+C:\Users\Miguel 07\Desktop\calculadora\Calculadora\x64\Debug\Calculadora.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Miguel 07\Desktop\calculadora\Calculadora\x64\Debug\Calculadora.calculadora.resources
+C:\Users\Miguel 07\Desktop\calculadora\Calculadora\x64\Debug\Calculadora.vcxproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\calculadora\Calculadora\x64\Debug\Calculadora.vcxproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\calculadora\Calculadora\x64\Debug\Calculadora.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Downloads\calculadora\Calculadora\x64\Debug\Calculadora.calculadora.resources
+C:\Users\Usuario\Downloads\calculadora\Calculadora\x64\Debug\Calculadora.vcxproj.GenerateResource.cache
+C:\C++\portafolio\Calculadora\calculadora\Calculadora\x64\Debug\Calculadora.vcxproj.AssemblyReference.cache
+C:\C++\portafolio\Calculadora\calculadora\Calculadora\x64\Debug\Calculadora.calculadora.resources
+C:\C++\portafolio\Calculadora\calculadora\Calculadora\x64\Debug\Calculadora.vcxproj.GenerateResource.cache
